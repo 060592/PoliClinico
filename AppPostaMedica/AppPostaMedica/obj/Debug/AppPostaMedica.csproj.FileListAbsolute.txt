@@ -1,0 +1,126 @@
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe.config
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmMenu.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Properties.Resources.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taEspecialidad.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taMedicos.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\BD-labo4\BD\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taPacientes.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe.config
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmAtencion.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmPagoAtencion.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmMenu.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Properties.Resources.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taEspecialidad.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taMedicos.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taPacientes.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaEspecialidad.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaMedicos.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPacientes.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPagoAtencion.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaHistoriaClinica.resources
+C:\Users\usuario\Desktop\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEspecialidades.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe.config
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.exe
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.pdb
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.pdb
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csprojResolveAssemblyReference.cache
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmAtencion.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaEspecialidad.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaHistoriaClinica.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaMedicos.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPacientes.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPagoAtencion.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmPagoAtencion.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEspecialidades.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmMenu.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Properties.Resources.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taEspecialidad.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taMedicos.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taPacientes.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.GenerateResource.Cache
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteMedicos.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReportePacientes.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteHistoriaClinica.resources
+F:\18\BD-labo4\final\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEconomico.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe.config
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.pdb
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmAtencion.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaEspecialidad.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaHistoriaClinica.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaMedicos.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPacientes.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPagoAtencion.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmPagoAtencion.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEconomico.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEspecialidades.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteHistoriaClinica.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteMedicos.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReportePacientes.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmMenu.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Properties.Resources.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taEspecialidad.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taMedicos.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taPacientes.resources
+C:\Users\usuario\Desktop\algoritmica III\LABO IV\NEW\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.GenerateResource.Cache
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe.config
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.exe
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\AppPostaMedica.pdb
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.Shared.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\FlashControlV71.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\ShockwaveFlashObjects.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\bin\Debug\stdole.dll
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csprojAssemblyReference.cache
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmAtencion.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaEspecialidad.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaHistoriaClinica.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaMedicos.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPacientes.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmConsultaPagoAtencion.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmPagoAtencion.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEconomico.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteEspecialidades.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteHistoriaClinica.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReporteMedicos.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmReportePacientes.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.fmMenu.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Properties.Resources.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taEspecialidad.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taMedicos.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.taPacientes.resources
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.GenerateResource.cache
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.CoreCompileInputs.cache
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.csproj.CopyComplete
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.exe
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.pdb
+E:\ANDREEEE\AppPostaMedica\AppPostaMedica\obj\Debug\AppPostaMedica.Login.resources
